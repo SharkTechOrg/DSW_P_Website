@@ -6,7 +6,7 @@ Versión 1.0
 
 Sitio web desarrollado para cumplimentar con el proyecto de la materia "Desarrollo de sistenmas web" de la tecnicatura de desarrollo de software del "Instituto Leopoldo Marechal".
 
-Desarrollado por SharkTech
+Desarrollado por SharkTech - www.sharktech.com.ar
 
 Integrantes:        
 * Lourdes Helman
